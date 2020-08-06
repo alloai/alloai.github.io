@@ -23,12 +23,13 @@ As it needed lot of data analysis with my work, I started to learn Python for da
 
 And another repetitive tasks made me annoying, we have several enterprise resource management systems, one for HR and payroll, one for time-tracking with inventory, and there is another one for benefit management. So one employee got hired in HR system, I still need to copy and paste the same information to time-tracking system and benefit management manually.  
 
-With attempt to automate this task, I’ve finished almost all the new lesson of freecodecamp, which include:
-*Responsive Web Design Certification  
-*JavaScript Algorithms and Data Structures Certification  
-*Front End Libraries Certification   
-*Data Visualization Certification   
-*APIs and Microservices Certification  
+With attempt to automate this task, I’ve finished almost all the new lesson of freecodecamp, which include:  
+
+* Responsive Web Design Certification  
+* JavaScript Algorithms and Data Structures Certification  
+* Front End Libraries Certification   
+* Data Visualization Certification   
+* APIs and Microservices Certification  
 
 I’ve only finished two small projects in these curriculum. And I began to systematically learn back-end programming, so I’ve finished the official [django tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) and another tutorial from [mozilla developer network](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django).
 
